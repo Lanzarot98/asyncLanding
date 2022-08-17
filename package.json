@@ -1,0 +1,27 @@
+{
+  "name": "asynclanding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lanzarot98/asyncLanding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lanzarot98/asyncLanding/issues"
+  },
+  "homepage": "https://github.com/Lanzarot98/asyncLanding#readme",
+  "dependencies": {
+    "sweetalert2": "^11.4.27"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
